@@ -1,0 +1,13 @@
+﻿  源.cpp
+源.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+源.cpp(82): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+源.cpp(84): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+源.cpp(86): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+源.cpp(88): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  0 of 148 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  moravec.vcxproj -> d:\documents\visual studio 2015\Projects\moravec\Release\moravec.exe
+  moravec.vcxproj -> d:\documents\visual studio 2015\Projects\moravec\Release\moravec.pdb (Full PDB)

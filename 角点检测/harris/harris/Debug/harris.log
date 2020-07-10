@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\documents\visual studio 2015\projects\harris\harris\源.cpp(48): warning C4018: “<”: 有符号/无符号不匹配
+d:\documents\visual studio 2015\projects\harris\harris\源.cpp(168): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  harris.vcxproj -> d:\documents\visual studio 2015\Projects\harris\Debug\harris.exe
+  harris.vcxproj -> d:\documents\visual studio 2015\Projects\harris\Debug\harris.pdb (Full PDB)
